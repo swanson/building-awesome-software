@@ -8,9 +8,10 @@ View archives: [link](http://us5.campaign-archive2.com/home/?u=42197992359c6140b
 
 Powered by [Capuchin](https://github.com/swanson/capuchin), MailChimp and :heart:
 
-
 # License
 
-The following directories and their contents are Copyright Matt Swanson. You may not reuse anything therein without my permission:
+![CC BY-NC-SA](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
 
-* _emails/
+Creative Commons Attribution-NonCommercial-ShareAlike 
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
