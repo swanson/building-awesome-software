@@ -6,7 +6,7 @@ Subscribe here: [link](http://eepurl.com/Fi5ZX)
 
 View archives: [link](http://us5.campaign-archive2.com/home/?u=42197992359c6140b24ce0046&id=ee7084f978)
 
-Powered by [Capuchin](https://github.com/swanson/capuchin), MailChimp and :heart:
+Powered by [Capuchin](https://github.com/swanson/capuchin), [MailChimp](http://eepurl.com/H9PpL) and :heart:
 
 # License
 
