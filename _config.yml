@@ -1,0 +1,6 @@
+capuchin:
+  from_email: "matt@mdswanson.com"
+  from_name: "Matt Swanson"
+  list_id: "ee7084f978"
+  template_id: 105785
+  delivery_time: "18:00:00"
