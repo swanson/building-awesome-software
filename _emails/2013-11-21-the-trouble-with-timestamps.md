@@ -13,17 +13,20 @@ The pretty "time ago" format has become popular on the web.
 And it's good...until it isn't.
 
 There are certain types of data where the pretty format is fine. It originally
-came out of social networks, where the content was very time-sensitive. After
-a couple of days, the content would be stale and no one would be looking at it
-anyways.
+came from social networks, where the content was very time-sensitive. When
+people talk about something posted on Facebook, they usually say something
+like "Did you see that picture Bill put on Facebook the other day?". You
+would get funny looks if you said "Did you see that picture posted on 
+2013-11-21T01:46:06+00:00?" So the timestamps matched the real-world format.
 
 But what about `git` commits? What if I needed to see exactly when a change was
 introduced into my code? The bug report was entered on October 04, have we
-fixed it already?
+fixed it already? We deployed a build on October 01 at 2:30pm, what other
+changes also went out?
 
 !["GitHub time ago"](http://i.imgur.com/Iz7yIMC.png)
 
-A month ago doesn't really tell me a whole lot.
+A month ago doesn't really tell me a whole lot in this case.
 
 !["GitHub full timestamp on hover"](http://i.imgur.com/HqkrfWq.png)
 
@@ -32,8 +35,9 @@ A month ago doesn't really tell me a whole lot.
 ---
 
 Think about the context &mdash; most people don't refer to status updates based
-on specific times or dates. But I'm sure you've definitely looked at your source
-control history to see if a fix was applied in your release last Wednesday.
+on specific times or dates. But I'm sure you'll want to know the
+exact date of when your bank sent a bill payment if you are on the phone with a
+collection agency.
 
 What are the common use-cases for timestamped data in your app? Do users want
 a rough estimate or an exact value? Is the data short-lived or an important
